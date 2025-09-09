@@ -1,2 +1,2 @@
-# TimeToChange.php
+# TimeToChange
 TimeToChange Backend in PHP
